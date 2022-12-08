@@ -2,7 +2,7 @@ let bandMembers = [
   (singer1 = {
     name: "singer1",
     email: "singer1@band.com",
-    instruments: ["piano", "voice"],
+    instruments: ["voice", "piano"],
   }),
   (singer2 = {
     name: "singer2",
@@ -12,7 +12,7 @@ let bandMembers = [
   (piano1 = {
     name: "piano1",
     email: "piano1@band.com",
-    instruments: ["piano"],
+    instruments: ["piano", "voice"],
   }),
   (piano2 = {
     name: "piano2",
